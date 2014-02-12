@@ -1,4 +1,4 @@
 WebAudioSoundObject
 ===================
 
-Quick way to load and play sounds, and add effects using Web Audio API
+A Quick way to load, play sounds, and add effects using Web Audio API.
