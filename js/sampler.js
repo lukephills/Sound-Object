@@ -5,7 +5,7 @@
 	pop = new Sound("audio/pop.wav");
 	open = new Sound("audio/open.wav");
 
-	osc1 = new Synth();
+	//osc1 = new Synth();
 
 	pop.setVolume(.1);
 
