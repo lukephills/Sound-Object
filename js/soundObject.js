@@ -1,6 +1,4 @@
-// SOUND OBJECT //
-
-
+// THIS IS THE SOUND OBJECT //
 
 function Sound(source, gain){
 	if(!window.audioContext){
